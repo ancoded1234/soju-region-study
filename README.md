@@ -50,4 +50,4 @@ node scripts/build_deck.mjs
 
 ## 발표 URL
 
-배포 후 GitHub Pages 주소를 여기에 기록합니다.
+https://ancoded1234.github.io/soju-region-study/
