@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log*
+.env
+data/raw/
+data/historical_2014_2019/
+data/busan_market_share_2024_2025.csv
+data/regional_leadership_latest.csv
+data/sources_2024_2025.csv
+*.tmp

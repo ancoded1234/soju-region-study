@@ -1,0 +1,20 @@
+{
+    "name": "soju-region-study",
+    "version": "1.0.0",
+    "description": "Editable PowerPoint and interactive HTML presentation from verified regional soju ranking data",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node scripts/build_deck.mjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "dependencies": {
+        "pptxgenjs": "^4.0.0"
+    },
+    "overrides": {
+        "image-size": "^2.0.2"
+    }
+}
